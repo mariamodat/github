@@ -9,5 +9,5 @@
 * and to add a comment of your changes to assist you in next times we have to use the commant **commit -m "this is my comment"**
 * to push and share our changes we have to use the command **git push origin main** 
 * the link will be automatically generated and you can use it once again 
-* 
-* 
+
+
