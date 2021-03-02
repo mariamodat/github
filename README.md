@@ -10,4 +10,8 @@
 * to push and share our changes we have to use the command **git push origin main** 
 * the link will be automatically generated and you can use it once again 
 
+*we also can add images in the website using this command* 
+**![name](link of the image)** 
+##### for example lets try adding this photo 
+![mariam](https://miro.medium.com/max/4000/1*J8O2xd9ZqxWr2x6EP4MHmg.png)
 
